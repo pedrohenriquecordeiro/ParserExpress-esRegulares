@@ -15,11 +15,6 @@ def main():
     interpreter = Interpreter(er)
     interpreter.build()
 
-    print(translator(er))
-
-    #print(afn(er))
-    #print(translator(er))
-
 if (__name__ == "__main__"):
     # se eu sou o principal eu run
     # se eu for chamado por um outro arquivo eu não sou principal entao eu nao dou run
