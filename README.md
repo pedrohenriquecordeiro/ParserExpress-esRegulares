@@ -1,6 +1,4 @@
-# ParserExpressoesRegulares
-
-exemplo de expressoes regulares:
-(a+b)a
-(a+b)*
-abc*
+Example of regular expressions: </br>
+(a+b)a</br>
+(a+b)*</br>
+abc*</br>
